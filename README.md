@@ -39,7 +39,7 @@ initHideConsole(["log", "error", "warn"])
 initHideConsole(["error", "warn"])
 ```
 
-### Usage as JavaScrip library 
+### Usage as JavaScript library 
 
 Download hide-console.min.js and include it as a script file inside your application and call initHideConsole() as shown in above examples
 
